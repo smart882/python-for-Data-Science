@@ -1,0 +1,11 @@
+Name,Age,Relationship,Department,CGPA,Admission_Date,Gender,year,month,day
+Joy,22,Single,BCH,3.0,2022-03-11,Female,2022,3,11
+Peter,23,Single,Law,4.5,2022-03-11,Male,2022,3,11
+Paul,26,Married,Chemistry,3.4,2022-03-12,Male,2022,3,12
+Grace,25,Single,Biology,2.4,2022-03-16,Female,2022,3,16
+Bola,27,Single,Mathematics,4.0,2022-03-17,Male,2022,3,17
+Debby,21,Single,Physics,3.1,2022-03-19,Female,2022,3,19
+Eno,24,Married,English,1.8,2022-03-28,Female,2022,3,28
+Emem,19,Single,Medicine,2.7,2022-03-24,Female,2022,3,24
+Tolu,26,Married,Pharmacy,3.9,2022-03-21,Male,2022,3,21
+Will,27,Married,Insurance,3.7,2022-04-04,Male,2022,4,4
